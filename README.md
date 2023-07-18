@@ -1,5 +1,5 @@
 # FIND YOUR TRAIN APP IN FLUTTER  
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=000000&width=500&lines=App+Under+Work....">
 FIND YOUR TRAIN is a fully functional tarin app.
 
 Star⭐ the repo if you like what you see😉.
